@@ -1,2 +1,2 @@
 
-web interface for custom chromium tree based of crosswalk
+Documentation related to SHIELD Crosswalk custom build.
